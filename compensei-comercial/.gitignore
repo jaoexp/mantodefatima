@@ -1,0 +1,6 @@
+node_modules
+out
+.DS_Store
+scripts/.logo-big.png
+scripts/.selo-mask.png
+__pycache__
